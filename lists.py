@@ -1,0 +1,10 @@
+#lists
+a=[1,2,3,4,"b"]
+a.append('5')
+a.extend('6,7,8')
+d=["cmr","good","college"]
+d.insert(1,"is")
+d.insert(3,"university")
+d.pop(4)
+d.remove("good")
+d.reverse()
